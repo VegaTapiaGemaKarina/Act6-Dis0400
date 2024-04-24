@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 
-- ## Getting Started: FlutLab - Flutter Online IDE
+- ## resultado
 ![image](https://github.com/VegaTapiaGemaKarina/Act6-Dis0400/assets/144732543/10480b6b-379e-49d6-804f-08d6b7aef18f)
